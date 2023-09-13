@@ -44,4 +44,4 @@ If you have questions or feedback, please contact us at erdem_ay@yahoo.com
 
 ## Live Demo
 
-The project is live on vercel.com You can access it here: https://dataguess.vercel.app/
+The project is live on https://vercel.com/ You can access it here: https://dataguess.vercel.app/
